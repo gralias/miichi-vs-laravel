@@ -22,5 +22,10 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/gralias/miichi-vs-laravel.git"
-    }
+    },
+    "galleryBanner": {
+        "color": "#D6D4DB",
+        "theme": "light"
+    },
+    "icon": "icon.png"
 }
