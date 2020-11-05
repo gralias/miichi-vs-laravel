@@ -18,5 +18,9 @@
         "octref.vetur",
         "onecentlin.laravel5-snippets",
         "PKief.material-icon-theme"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gralias/miichi-vs-laravel.git"
+    }
 }
