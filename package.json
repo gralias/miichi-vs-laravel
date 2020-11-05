@@ -1,0 +1,21 @@
+{
+    "name": "miichi-vs-laravel",
+    "author": "gralias",
+    "keywords": ["miichi", "laravel", "snippet", "icon"],
+    "displayName": "miichi-vs-laravel",
+    "description": "Exts support laravel for vitual studio editor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bmewburn.vscode-intelephense-client",
+        "mohamedbenhida.laravel-intellisense",
+        "octref.vetur",
+        "onecentlin.laravel5-snippets",
+        "PKief.material-icon-theme"
+    ]
+}
