@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension pack "miichi-vs-laravel"
+## This is the README for your extension pack "miichi-vs-laravel" ower by gralias
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
@@ -9,8 +9,5 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
 ## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
